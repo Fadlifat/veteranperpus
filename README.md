@@ -9,19 +9,25 @@
 
 <b>Petugas Perpus : </b>
 <br/>
-User : anang
+User : pak irfan
 <br/>
 Pass : 123
 
 <b>Anggota Perpus :</b>
 <br/>
-User : fauzan
+User : fadli
+<br/>
+Pass : 123
+
+<b>Anggota Perpus :</b>
+<br/>
+User : miftah
 <br/>
 Pass : 123
 
 # Contributors
-<a href="https://fauzan.codekop.com/"> Fauzan Falah</a>
+<a href=Fadli Miftah</a>
 
-My Blog : <a href="https://www.codekop.com/"> Codekop.com</a>
+
 
 Gunakan Aplikasi dengan bijak, dan selamat belajar
